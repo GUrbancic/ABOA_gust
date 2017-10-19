@@ -20,7 +20,7 @@ bad_file = 0
 # window size - 2 seconds
 size = 40                 
 
-# correlation-based forecasting parameters. C_sp.. = [x,y,z,T]
+# correlation-based (SUOMI)  forecasting parameters. C_sp.. = [x,y,z,T]
 C_spike=[4.0,4.0,4.0,5.0]
 xcrit = 30.0
 ycrit = 30.0
