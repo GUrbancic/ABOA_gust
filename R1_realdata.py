@@ -4,7 +4,7 @@ import os.path
 from netCDF4 import Dataset
 import glob
 
-# Read in raw data to determine valid 10-minute intervals where values are realistic.
+# Read the raw data to determine valid 10-minute intervals where values are realistic.
 #change
 # path to ascii data
 datdir = '/Users/gabin/Documents/FMI/ABOA_data/ORIG_10m/'
