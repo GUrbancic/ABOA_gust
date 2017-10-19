@@ -3,7 +3,7 @@ import os.path
 from netCDF4 import Dataset
 import glob
 
-# path to ascii data
+# path to ascii raw data 
 datdir = '/Users/gabin/Documents/FMI/ABOA_data/ORIG_10m/'
 # path to netcdf data
 outdir1 = '/Users/gabin/Documents/FMI/ABOA_data/G_NCDF_10m/'
