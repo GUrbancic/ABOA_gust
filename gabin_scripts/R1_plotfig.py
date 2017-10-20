@@ -4,7 +4,7 @@ import glob
 import matplotlib.dates as mdates
 import numpy as np
 
-# R1 Plot Figures 
+# R1 Plot Figure 
 # Script to build figures from data saved in R1_*.py routines.
 # See R1_dataqual.py for information on data saves. 
 
